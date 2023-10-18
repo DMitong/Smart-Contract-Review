@@ -1,36 +1,36 @@
 ## Document Properties
 
-| Title          | AAVEGOTCHI REALM FACET SMART CONTRACT REVIEW |
-| :------------- | :------------------------------------------- |
-| Date           | 18th October, 2023                           |
-| Version        | 1.0                                          |
-| Author         | [Mitong Dapal](https://github.com/DMitong)   |
-| Classification | Public                                       |
-| Description    | Final Version                                |
+| Title          | AAVEGOTCHI REALM FACET SMART CONTRACT REVIEW    |
+| :------------- | :---------------------------------------------- |
+| Date           | 18th October, 2023                              |
+| Version        | 1.0                                             |
+| Description    | Final Version                                   |
+| Classification | Public                                          |
+| Author         | [Mitong Dapal, Esq](https://github.com/DMitong) |
 
 ## Table of contents
 
-- <a href="#dsds"> INTRODUCTION </a>
+- <a href="#dsds"> GENERAL INTRODUCTION </a>
   - <a href="#Introduction"> 1. Introduction</a>
   - <a href="#about"> 2. About Me</a>
   - <a href="#Skills"> 3. Skills</a>
   - <a href="#links"> 4. Link</a>
   - <a href="#Ppc"> 5. Notice on Review</a>
-- <a href="#code"> CODE BASE </a>
-- <a href="#Review"> AAVEGOTCHI’S RealmFacet.sol SMART CONTRACT REVIEW</a>
-  - <a href="#summary"> Summary</a>
-  - <a href="#bullet"> Bullet Points Highlight of Key Findings>
-- <a href="#Danalysis"> DETAILED ANALYSIS </a>
-  - <a href="#da1"> 3.1. CONTRACT STRUCTURE </a>
-  - <a href="#da2"> 3.2. CONTRACT FUNCTIONALITIES </a>
-  - <a href="#da3"> 3.2.1. Importations </a>
-  - <a href="#da4"> 3.2.2. Modifiers Contract </a>
-  - <a href="#da5"> 3.3.3. A bit more on the `AppStorage` struct in `AppStorage.sol` </a>
-  - <a href="#da6"> 3.2.4. Functions and Workings of `RealmFacet.sol` </a>
-  - <a href="#da7"> 3.2.5. Events </a>
-- <a href="#conclusion"> CONCLUSION </a>
+- [CODE BASE](./Code-Base/RealmFacet.sol)
+- [AAVEGOTCHI’S RealmFacet.sol SMART CONTRACT REVIEW](./Review/Readme.md#header)
+  - [Summary](./Review/Readme.md#summary)
+  - [Bullet Points Highlight of Key Findings](./Review/Readme.md#bullet)
+- [DETAILED ANALYSIS](./Review/Readme.md#Danalysis)
+  - [3.1. CONTRACT STRUCTURE](./Review/Readme.md#da1)
+  - [3.2. CONTRACT FUNCTIONALITIES](./Review/Readme.md"#da2)
+    - [3.2.1. Importations](./Review/Readme.md#da3)
+    - [3.2.2. Modifiers Contract](./Review/Readme.md#da4)
+    - [3.3.3. A Bit More on the App Storage Struct in `AppStorage.sol`](./Review/Readme.md#da5)
+    - [3.2.4. Functions and Workings of RealmFacet.sol](./Review/Readme.md#da6)
+    - [3.2.5. Events](./Review/Readme.md#da7)
+- [CONCLUSION](./Review/Readme.md#conclusion)
 
-<h2 id="dsds"> INTRODUCTION </h2>
+<h2 id="dsds"> GENERAL INTRODUCTION </h2>
 
 ### <h3 id="Introduction"> 1. Introduction <h3>
 
@@ -47,8 +47,11 @@ As a developer, I am passionate about creating secure and efficient smart contra
 ### <h3 id="Skills"> 3. Skills <h3>
 
 <b> Legal Skills:</b> Legal Writing and Research, Public Speaking and Advocacy, Technology and Startup Law, Contract Law, Corporate Law and Commercial Law.
+
 <b> Blockchain Skills:</b> Blockachain Programming, Solidity, Ethers.js, Hardhat, Foundry, and Remix.
+
 <b> Other Technical Skills:</b> Web/Software Development, Systems Administration, Cloud and Database Management, and Technical Writing.
+
 <b>Soft Skills:</b> Entrepreneurial, Communication, Leadership, Teamwork, Adaptability, Problem Solving, Management Skills, Attention to Detail, Decision Making and Creativity.
 
 ### <h3 id="links"> 4. 🔗 Links <h3>
