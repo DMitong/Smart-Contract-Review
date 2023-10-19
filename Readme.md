@@ -1,12 +1,12 @@
 ## Document Properties
 
-| Title          | AAVEGOTCHI REALM FACET SMART CONTRACT REVIEW    |
-| :------------- | :---------------------------------------------- |
-| Date           | 18th October, 2023                              |
-| Version        | 1.0                                             |
-| Description    | Final Version                                   |
-| Classification | Public                                          |
-| Author         | [Mitong Dapal, Esq](https://github.com/DMitong) |
+| Title          | AAVEGOTCHI REALM FACET SMART CONTRACT REVIEW |
+| :------------- | :------------------------------------------- |
+| Date           | 18th October, 2023                           |
+| Version        | 1.0                                          |
+| Description    | Final Version                                |
+| Classification | Public                                       |
+| Author         | [Mitong Dapal](https://github.com/DMitong)   |
 
 ## Table of Contents
 
@@ -63,4 +63,4 @@ As a developer, I am passionate about creating secure and efficient smart contra
 
 The main Aavegotchi `RealmFacet.sol` codebase can be found at this [link](https://github.com/aavegotchi/aavegotchi-realm-diamond/blob/master/contracts/RealmDiamond/facets/RealmFacet.sol).
 
-And as Aavegotchi is a progressive company, the facets are updated frequently, so the version of the code base that I reviewed as at 18th October, 2023 is added to this repository at `./Code Base/RealmFacet.sol;`
+And as Aavegotchi is a progressive company, the facets are updated frequently, so the version of the code base that I reviewed as at 18th October, 2023 is added to this repository at [CODE BASE](./Code-Base/RealmFacet.sol)
